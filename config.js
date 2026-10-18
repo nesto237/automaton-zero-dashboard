@@ -1,0 +1,1 @@
+window.AUTOMATON_SUPABASE = {"url": "https://uwipcnivlnfkvonzqxxs.supabase.co", "publishableKey": "sb_publishable_jtdZdbA8Sf9ngYidl3XUKg_ANIpwdIP"};
